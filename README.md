@@ -52,6 +52,6 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilkun&layout=pie)](https://github.com/daniilkun/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilkun&layout=compact)
 
 ###
