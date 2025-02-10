@@ -1,11 +1,15 @@
+<br clear="both">
+
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw3d2RueDI1N29jdzJ3Y3hhNWo5ZGFjeTRvOWsxY2l0M25pazY5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbt3HJ6pSpyco/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw3d2RueDI1N29jdzJ3Y3hhNWo5ZGFjeTRvOWsxY2l0M25pazY5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbt3HJ6pSpyco/giphy.gif" width="400"/>
 </div>
 
 ###
 
 <h1 align="center">Привет👋 Меня зовут Даниил!</h1>
+
 ###
+
 <div align="center">
   <a href="https://t.me/daniilFront" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
