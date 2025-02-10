@@ -46,12 +46,14 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=daniilkun&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
+<div align="right">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilkun&layout=compact)
+</div>
 
 ###
